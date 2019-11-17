@@ -1,3 +1,4 @@
 # Discriminator
 This is the support page for Discriminator CNC Editor
-![Splash](/Images/HomeSplash.png?raw=true)
+
+![Splash](https://github.com/JasonTitcomb/Discriminator/blob/master/Images/HomeSplash.PNG?raw=true)
